@@ -12,3 +12,15 @@ uv pip install -r requirements.txt
 ```
 ## Running tensorboard
 tensorboard --logdir tensorboard_embeddings/ 
+
+
+## Insights v1:
+Kids: Boys turned to Toy Story 2, Matrix, and Star Wars: Phantom Menace—a mix of Disney and sci-fi. Girls loved Toy Story, Aladdin, 101 Dalmatians, and The Parent Trap.
+
+Younger Males: Star Wars, Matrix, Fight Club, and Terminator 2 ruled with action vibes.
+
+Younger Females: American Beauty, Titanic, Shakespeare in Love, and Princess Bride captured romance and drama.
+
+Adult Males: American Beauty, The Godfather, and Saving Private Ryan balanced drama and war epics, with Star Wars as a timeless anchor.
+
+Adult Females: American Beauty, Casablanca, Schindler’s List, and Annie Hall highlighted classic dramas and romance.
